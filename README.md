@@ -1,5 +1,8 @@
 # E2E-with-NN-mapper-and-NN-receiver
 
+Evaluation results:
+https://docs.google.com/document/d/1sQG8jaZPqFKvgqYV0cflXNGwIWWUNHQfJRkzpMZG2hQ/edit#heading=h.w02mtxw0lwbk
+
 Future work:
 - compare uncoded BLER for evaluation
 - Investigate encoding scheme (currently LDPC); Define bits and channel use 
