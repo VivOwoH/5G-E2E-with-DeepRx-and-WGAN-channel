@@ -1,1 +1,0 @@
-Issue is that trained constellations do not converge, they should be similar across different runs of training
